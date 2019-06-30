@@ -1,0 +1,49 @@
+.logo {
+    height:30px;
+    width:106px;
+    background-image:url('images/icons.png');    
+    background-position: 292px -900px;
+}
+
+.gray{
+    background-color: #fbfbfb;
+}
+
+.padding{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ig-icon {
+    height:26px;
+    width:26px;
+    background-image:url('images/icons.png');
+}
+
+.ig-icon-camera {
+    background-position: 260px -972px;
+}
+
+.ig-icon-direct {
+    background-position: 213px -928px;
+}
+
+.ig-icon-igtv {
+    background-position: 260px -998px;
+}
+
+.ig-icon-inicio {
+    background-position: 340px -998px;
+}
+
+.ig-icon-pesquisar {
+    background-position: 236px -1024px;
+}
+
+.ig-icon-adicionar-foto {
+    background-position: 25px -830px;
+}
+
+.ig-icon-likes {
+    background-position: 53px -974px;
+}
