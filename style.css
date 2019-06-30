@@ -14,6 +14,11 @@
     padding-bottom: 10px;
 }
 
+.no-padding{
+    padding-right: 0px;
+    padding-left: 2px;
+}
+
 .border{
     border-bottom: 2px solid #dbdbdb;
 }
@@ -80,6 +85,13 @@
     background-color: #efefef;
     border: none;
     border-radius: 12px;
+}
+
+.ig-btn-primary{
+    color: #262626;
+    background-color: white;
+    border: 2px solid #dbdbdb;
+    border-radius: 8px;
 }
 
 b{
