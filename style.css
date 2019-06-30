@@ -64,6 +64,24 @@
     background-position: 25px -802px;
 }
 
+.ig-icon-voltar {
+    background-position: 80px -998px;
+}
+
+.ig-icon-video {
+    background-position: 314px -974px
+}
+
+.badge-danger{
+    background-color: #ed4956;
+}
+
+.ig-input-pesquisa{
+    background-color: #efefef;
+    border: none;
+    border-radius: 12px;
+}
+
 b{
     color: #333333;
 }
@@ -71,4 +89,8 @@ b{
 span{
     color: #999999;
     font-size: 12px;
+}
+
+label{
+    margin-bottom: 0em;
 }
