@@ -45,8 +45,16 @@
     background-position: 340px -998px;
 }
 
+.ig-icon-inicio-active {
+    background-position: 74px -948px;
+}
+
 .ig-icon-pesquisar {
     background-position: 236px -1024px;
+}
+
+.ig-icon-pesquisar-active {
+    background-position: 262px -1024px;
 }
 
 .ig-icon-adicionar-foto {
